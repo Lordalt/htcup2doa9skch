@@ -3,3 +3,4 @@ htcup2doa9skch project (htc u play to desire one a9s kernel conversion hopefully
 # how could i help?
 i am very new to this github stuff so i dont know yet how you can help, but if you have something that could help then just idk tell me on here: https://discord.gg/bUtCpCm5V8.
 # currently im looking for people who could help with the dumping of the stock rom from the a9s. if you think you know how to then shoot me an message in the discord link above.
+#i currently dont have either the a9s (but i know someone who does) or the u play so if you want to be of any help join the discord
